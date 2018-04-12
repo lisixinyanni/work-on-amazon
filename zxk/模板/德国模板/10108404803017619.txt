@@ -1,0 +1,3 @@
+TemplateType=InventoryLoader	Version=2011.1201
+
+sku	product-id	price	de-currency	de-product-name	gb-price	gb-currency	gb-product-name	gb-item-note	product-id-type	item-condition	fulfillment-center-id
